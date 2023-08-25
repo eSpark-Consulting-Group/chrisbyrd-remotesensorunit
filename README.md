@@ -10,12 +10,12 @@ To design schematic and PCB of remote sensor unit.
 - If POE is present, can this also charge the battery?
 - GPIO pin to monitor battery charge
 - ATECC608a
-- Onboard air temperature & humidity sensor (either combined or two separate components).
+- Onboard air temperature & humidity sensor (either combined or two separate components). Client needs two options, the one currently present on board and then another BME680, only one of the two sensors will be used at one time and the other will be DNP (decided by client)
 - Onboard piezo sounder
 - 8x external sensor probe sockets, each connected by RJ11. It will be a mixture of digital and analogue sensors so will need GPIO capable of ADC.
 - Side reset button
 - 2 output relays (no/nc/c)
-- OLED display and 3 buttons (ideally re-use our existing OLED+BTN board)
+- OLED display and 3 buttons (ideally re-use our existing OLED+BTN board). The OLED advanced board will be used in this design so ensure all the connections are set accordingly.
 - Small footprint as possible
 
 Example Sensor Probes we will use (with our own RJ11 pinout)
