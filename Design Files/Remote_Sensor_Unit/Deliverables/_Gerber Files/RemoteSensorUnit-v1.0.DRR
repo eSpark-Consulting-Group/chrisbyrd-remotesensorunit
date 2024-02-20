@@ -1,16 +1,16 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: RemoteSensorUnit.PcbDoc   10/12/2023  9:12:46 PM
+NCDrill File Report For: RemoteSensorUnit-v1.0.PcbDoc   2/20/2024  5:29:29 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
-ASCII RoundHoles File : RemoteSensorUnit-RoundHoles.TXT
-ASCII SlotHoles File : RemoteSensorUnit-SlotHoles.TXT
+ASCII RoundHoles File : RemoteSensorUnit-v1.0-RoundHoles.TXT
+ASCII SlotHoles File : RemoteSensorUnit-v1.0-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      12mil (0.3mm)                                             Round             300       PTH        43.14inch (1095.72mm)
+T1      12mil (0.3mm)                                             Round             299       PTH        43.15inch (1096.08mm)
 T2      24mil (0.6mm)                                             Slot              4         PTH        1.50inch (38.19mm)
-T3      40mil (1.02mm)                                            Round             34        PTH        6.58inch (167.14mm)
+T3      40mil (1.02mm)                                            Round             34        PTH        6.48inch (164.58mm)
 T4      43mil (1.1mm)                                             Round             2         PTH        0.18inch (4.50mm)
 T5      51mil (1.3mm)                                             Round             2         PTH        0.28inch (7.01mm)
 T6      63mil (1.6mm)                                             Round             6         PTH        1.01inch (25.70mm)
@@ -21,6 +21,6 @@ T10     118mil (3mm)                                              Round         
 T11     125mil (3.17mm)                                           Round             8         NPTH       3.68inch (93.44mm)
 T12     197mil (5mm)                                              Round             1         NPTH       0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              365
+Totals                                                                              364
 
 Total Processing Time (hh:mm:ss) : 00:00:00
